@@ -1,8 +1,3 @@
-# EPD_2017_WebPack
-
-npm install css-loader style-loader html-loader sass-loader node-sass mustache --save-dev
-
-package.json
 {
   "name": "EPD_2017_WebPack",
   "version": "1.0.0",
